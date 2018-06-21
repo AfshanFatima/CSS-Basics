@@ -1,0 +1,34 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    background-color: pink;
+    color:aqua;
+    padding:30px;
+    font-family: sans-serif;
+}
+h2 {
+    padding:15px;
+    color:gold;
+    font-family: cursive;
+}
+h4{
+    padding:10px;
+    color:indianred;
+    font-family: cursive;
+}
+p {
+    padding:20px;
+    margin:10px;
+    border-style: dashed;
+}
+li {
+    color:darkblue;
+    padding:5px;
+}
+ol {
+    border-style: solid;
+}
+ul {
+ border-style: solid;
+}
