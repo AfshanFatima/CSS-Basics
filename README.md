@@ -1,4 +1,4 @@
-                    ** CSS Basics **
+                    **CSS Basics**
                       
    ** During this course, I learned about **
    * Basic selection of CSS properties
