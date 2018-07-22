@@ -1,0 +1,65 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color:cornflowerblue;
+    padding:10px;
+}
+h2 {
+    color:red; 
+    padding:10px;
+    
+}
+header h3 {
+    border:dashed;
+    border-color: orange;
+}
+h3 {
+
+    font-family:cursive;
+    font-weight: 700;
+    padding:10px;
+}
+ header p{
+    padding:10px;
+}
+p {
+   margin: 0px; 
+   padding: 3px;
+}
+
+
+#id1 {
+    border: 5px;
+    border-color: orange;
+    border-style: solid;
+    margin:15px;
+    
+}
+article {
+    margin-bottom:9px;
+    border-color: salmon;
+}
+.class1 {
+    border-color: salmon;
+    border:2px;
+    border-style: solid;
+    margin:10px;
+}
+.class2 {
+    border-color: salmon;
+    border:2px;
+    border-style: solid;
+    margin:10px;
+}
+.class3 {
+     border-color: salmon;
+    border:2px;
+    border-style: solid;
+    margin:10px;
+}
+hr{
+    border-bottom: solid;
+    margin:10px;
+    color:salmon;
+}
