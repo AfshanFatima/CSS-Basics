@@ -1,6 +1,6 @@
                     **CSS Basics**
                       
-   ** During this course, I learned about **
+   **During this course, I learned about**
    * Basic selection of CSS properties
    * Fundamental CSS selectors
    * Designing  page layout through relative positioning with   CSS
@@ -32,7 +32,7 @@ http://127.0.0.1:50749/Module4.html -->
 5.Module-5 (Apply good design)
 Designing your Web site for your audience
 
-** Module-1 **
+**Module-1**
 
 
 CSS
@@ -80,7 +80,7 @@ After CSS:
 
 **Bert Bos, and Håkon Lie developed CSS.**
 
- ** Some benefits of CSS: **
+ **Some benefits of CSS:**
 *   CSS has a host of specialized tools to give you powerful control over the look and feel of your Web site, much more powerful than the tools provided    by HTML.
 *  Designers can style many HTML pages with a single CSS document for a consistent look and feel across an entire Web page and less code to maintain.
 *  Separation of content and presentation makes Web site maintenance much simpler as you can address updates in isolation.
@@ -89,7 +89,7 @@ After CSS:
 *  Before CSS visual elements were almost always achieved with static images, which can have a big affect on network performance. CSS provides an          optimized way to style your page so it can load complex visuals quickly. 
 
 
-** Module-2 **
+**Module-2**
 
 
 *  Review the basics of HTML
@@ -99,14 +99,14 @@ After CSS:
 *   Finally, for your module project, you'll get a get a chance to build the CSS for an HTML page from scratch.
 
 
- ** Module-3 **
+ **Module-3**
 
 * How to use classes and IDs to independently target HTML elements of the same type
 *  How to apply different style to the same element based on the way the user interacts with that element using pseudo-classes
 *   How to scope style rules using contextual selectors and the HTML inheritance structure of your document
 *   What the "Cascading" part of "Cascading Style Sheets" mean
  
-** Example **
+**Example**
 
 
  p {
@@ -144,7 +144,7 @@ After CSS:
  
  
  
-** Module-4 **
+**Module-4**
 
 * How to use padding and margin to position elements relative to each other and the window
 *  How to use alignment to control how your content sits within its HTML element
@@ -155,7 +155,7 @@ After CSS:
   The Box Model is how Web browsers see individual HTML elements. Each element is comprised of 4 areas: the element, the padding, the border and the margin.
 
 
-** Module-5 **
+**Module-5**
 
 
 *  Learn how to apply basic design principals based on the context of your HTML elements
@@ -165,10 +165,10 @@ After CSS:
 *  Meet the newest fashions in Web design to help you give your Web pages a modern look and feel
 
 
-** CSS best practices ** 
+**CSS best practices** 
 
 
-** Executive summary**
+**Executive summary**
 
 
 *   Logical source order: 
@@ -181,7 +181,7 @@ After CSS:
    Dead code may come alive as CSS changes. Delete it before it does, and ruins your layout.
    
 
-** Test in multiple browsers: **
+**Test in multiple browsers:**
 
 
 *   Your favorite browser is not always right.
@@ -191,7 +191,7 @@ After CSS:
    A well-coded page will be understandable without it. 
  
  
- ** Foundations **
+ **Foundations**
 
 
 *  Indent your code for readability ease
@@ -209,7 +209,7 @@ After CSS:
 *  Linguistic variations: set the language correctly for better typography (see the section entitled "why Internationalization is important") 
     
 
- ** Testing **
+ **Testing**
  
 
 *   Test without CSS: turn off CSS, and if the page       makes no sense, fix your markup.
@@ -220,7 +220,7 @@ After CSS:
 *  Navigate by keyboard
 *  Test in multiple browsers: remember that just        testing in Chrome does not work for everyone!  
  
-** Adaptability **
+**Adaptability**
 
 
 *  Media queries: set media query breakpoints in em or ch, not always in px.
