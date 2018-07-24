@@ -1,4 +1,4 @@
-                    **CSS Basics**
+# CSS Basics
                       
    **During this course, I learned about**
    * Basic selection of CSS properties
@@ -45,34 +45,26 @@ Stands for "Cascading Style Sheets". A style sheet language for describing ho
 
 Sample CSS document:
 
+```
  body {
- 
-    background-color: #d0e4fe;
-    
+    background-color: #d0e4fe;  
  }
- 
  h1 {
- 
     color: orange;
-    
     text-align: center;
-    
  }
- 
  p {
- 
     font-family: "Times New Roman";
-    
     font-size: 20px;
  }
- 
+ ```
 
-Before and after CSS
+**Before and after CSS**
 
-Before CSS:
+**Before CSS:**
 *  All documents looked very similar - it was difficult for different companies to express their brand identities in documents
 *  possibilities for styling were very limited and style was difficult to control and maintain - style had to be applied to content directly, so you        couldn't update style without having to touch content and vice versa. 
-After CSS:
+**After CSS:**
 *   Content authors didn't have to worry about style, they could just focus on content
 *  Content authors didn't have to worry about what device users would view their document on, those considerations could be handled by the CSS
 *  Style became much more efficient- a single rule could apply to multiple elements and a single style sheet could apply to multiple documents.
@@ -108,41 +100,26 @@ After CSS:
  
 **Example**
 
-
+```
  p {
- 
-     color: white;
-     
+     color: white;     
      background-color: midnightblue;
-     
      font-size: large;
  }
  
  .middle {
- 
      color: darkviolet;
-     
      background-color: lightgray;
-     
      padding-left: 120px;
-     
      padding-right: 120px;
-     
-     font-size: large;
-     
+     font-size: large:
  }
- 
  #bottom {
- 
      background-color: transparent;
-     
      color: black;
-     
-     font-family: 'Franklin Gothic Medium';
-     
+     font-family: 'Franklin Gothic Medium';    
  }
- 
- 
+ ```
  
 **Module-4**
 
@@ -165,10 +142,10 @@ After CSS:
 *  Meet the newest fashions in Web design to help you give your Web pages a modern look and feel
 
 
-**CSS best practices** 
+##### CSS best practices
 
 
-**Executive summary**
+###### Executive summary
 
 
 *   Logical source order: 
@@ -181,7 +158,7 @@ After CSS:
    Dead code may come alive as CSS changes. Delete it before it does, and ruins your layout.
    
 
-**Test in multiple browsers:**
+###### Test in multiple browsers:
 
 
 *   Your favorite browser is not always right.
@@ -191,7 +168,7 @@ After CSS:
    A well-coded page will be understandable without it. 
  
  
- **Foundations**
+ ###### Foundations
 
 
 *  Indent your code for readability ease
@@ -206,10 +183,10 @@ After CSS:
 *  for mobile
 *  for accessibility
 *  as a foundation for device adaptation (media queries)
-*  Linguistic variations: set the language correctly for better typography (see the section entitled "why Internationalization is important") 
+*  Linguistic variations: set the language correctly for better typography (see the section entitled "why Internationalization is important")
     
-
- **Testing**
+    
+ ###### Testing
  
 
 *   Test without CSS: turn off CSS, and if the page       makes no sense, fix your markup.
@@ -219,8 +196,10 @@ After CSS:
 *  Try a mobile browser
 *  Navigate by keyboard
 *  Test in multiple browsers: remember that just        testing in Chrome does not work for everyone!  
+
+
  
-**Adaptability**
+###### Adaptability
 
 
 *  Media queries: set media query breakpoints in em or ch, not always in px.
