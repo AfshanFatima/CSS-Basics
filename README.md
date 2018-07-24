@@ -1,6 +1,6 @@
 # CSS Basics
                       
-   **During this course, I learned about**
+   #### During this course, I learned about
    * Basic selection of CSS properties
    * Fundamental CSS selectors
    * Designing  page layout through relative positioning with   CSS
@@ -35,7 +35,7 @@ Designing your Web site for your audience
 **Module-1**
 
 
-CSS
+#### CSS
 
 
 CSS, or Cascading Style Sheets, is a style sheet language used to describe the way an HTML or XML document should look to a user. CSS is where you specifiy the color, size, spacing, font and other visual aspects of the content that you create in your markup language document.
@@ -49,10 +49,12 @@ Sample CSS document:
  body {
     background-color: #d0e4fe;  
  }
+ 
  h1 {
     color: orange;
     text-align: center;
  }
+ 
  p {
     font-family: "Times New Roman";
     font-size: 20px;
@@ -105,20 +107,21 @@ Sample CSS document:
      color: white;     
      background-color: midnightblue;
      font-size: large;
- }
+   }
  
  .middle {
-     color: darkviolet;
-     background-color: lightgray;
-     padding-left: 120px;
-     padding-right: 120px;
-     font-size: large:
- }
+       color: darkviolet;
+       background-color: lightgray;
+       padding-left: 120px;
+       padding-right: 120px;
+       font-size: large:
+   }
+ 
  #bottom {
-     background-color: transparent;
-     color: black;
-     font-family: 'Franklin Gothic Medium';    
- }
+       background-color: transparent;
+       color: black;
+       font-family: 'Franklin Gothic Medium';    
+    }
  ```
  
 **Module-4**
@@ -211,8 +214,10 @@ Sample CSS document:
 *  Content size? → Use auto or min-content/max-content.
 *  Combination of the above? → Use the appropriate layout formulas: flex, min-width, max-width, etc.
    Absolute units are usually the wrong answer.
+   
 	
-** Defensive Coding **
+###### Defensive Coding 
+
 *  !important means never override- to use with caution
 *  Use !important to define overriding rules, not for fixups
 *  Duplicate selectors if you need to increase specificity, or
@@ -221,14 +226,11 @@ Sample CSS document:
 
 
    For example, avoid:
-   
-	      * z-index: 
-          
+   ```
+	      * z-index:  
           9999999999999999999999999999999999999;
-          
 	      * position: absolute; left: -10000000000px
-          
-          
+          ```
           
 *  Drop dead code: you tried something and it didn't work? Delete it right away!
 *  Code to Standard
