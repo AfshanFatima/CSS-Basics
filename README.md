@@ -12,8 +12,6 @@
 
  ![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/9651b21ea92e785368a73893434f5592/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/1-4-3_css.PNG)
 
- ![alt text]()
-
  <!--
  http://127.0.0.1:55935/index1.html -->
 
