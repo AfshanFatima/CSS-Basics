@@ -248,11 +248,13 @@ Benefits are numerous as it works best:
 
 
    For example, avoid:
-   ```
+  ```
+  
 	      * z-index:  
           9999999999999999999999999999999999999;
 	      * position: absolute; left: -10000000000px
-          ```
+
+  ```
           
 *  Drop dead code: you tried something and it didn't work? Delete it right away!
 *  Code to Standard.  
