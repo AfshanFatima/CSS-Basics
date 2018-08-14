@@ -4,11 +4,11 @@
    * Basic selection of CSS properties
    * Fundamental CSS selectors
    * Designing  page layout through relative positioning with   CSS
-   * Best practices in WEb design             
-                      
-                     
- [1.Module-1 (Your first CSS)]()
- Hello World.
+   * Best practices in WEb design            
+
+  #### [Module-1](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/b8efea36f1874c2a8a0fc6843d20b063/16d9ca5dc6c242eb8b25ec13f8bbb9f4/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%40d20686012d724fdd819c2b4d791fdd0f)
+
+ ##### Hello World.
 
  ![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/9651b21ea92e785368a73893434f5592/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/1-4-3_css.PNG)
 
@@ -16,35 +16,6 @@
 
  <!--
  http://127.0.0.1:55935/index1.html -->
-
-
-[2.Module-2 (About me page)]()
-Building CSS Rules
-
-![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/152ba1416a059133e7dcd8af8480df6b/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/css-intro-2-6-1.png)
-<!--
-http://127.0.0.1:55935/Module2.html -->
-
-[3.Module-3 (My Profile)]()
-Specific HTML element targeting with CSS selectors
-
-![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/7dca701feeda5a00fad8d50486f3d9ac/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/3-6_sol_2.PNG)
-<!--
-http://127.0.0.1:55935/Module3.html -->
-
-[4.Module-4 (my resume)]()
-Layout and positioning
-
-![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/07fb2ab374e9dcd5a05257cf25507fde/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/4-6_Kasey_Resume.PNG)
-<!--
-http://127.0.0.1:50749/Module4.html -->
-
-
-[5.Module-5 (Apply good design)]()
-Designing your Web site for your audience
-
-  ##### [Module-1](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/b8efea36f1874c2a8a0fc6843d20b063/16d9ca5dc6c242eb8b25ec13f8bbb9f4/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%40d20686012d724fdd819c2b4d791fdd0f)
-
 
 ### CSS
 
@@ -94,7 +65,13 @@ Sample CSS document:
 *  Before CSS visual elements were almost always achieved with static images, which can have a big affect on network performance. CSS provides an  optimized way to style your page so it can load complex visuals quickly. 
 
 
-##### [Module-2](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/bb30325abfbf47b583784acd793db6dc/5a7d2add3d194df6a33cd131621ae75b/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%40cff61753c3bf41b89bb7beabce82406d)
+#### [Module-2](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/bb30325abfbf47b583784acd793db6dc/5a7d2add3d194df6a33cd131621ae75b/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%40cff61753c3bf41b89bb7beabce82406d)
+
+##### Building CSS Rules
+
+![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/152ba1416a059133e7dcd8af8480df6b/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/css-intro-2-6-1.png)
+<!--
+http://127.0.0.1:55935/Module2.html -->
 
 
 *  Review the basics of HTML.
@@ -104,7 +81,14 @@ Sample CSS document:
 *   Finally, for your module project, you'll get a get a chance to build the CSS for an HTML page from scratch.
 
 
- ##### [Module-3](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/46a1028808b949b9af0061a363d40b8a/45395061876d4e65a7748e6323ea1669/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%4074dc1b9273914350a71222d798b10a43)
+ #### [Module-3](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/46a1028808b949b9af0061a363d40b8a/45395061876d4e65a7748e6323ea1669/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%4074dc1b9273914350a71222d798b10a43)
+
+ ##### Specific HTML element targeting with CSS selectors
+
+![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/7dca701feeda5a00fad8d50486f3d9ac/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/3-6_sol_2.PNG)
+<!--
+http://127.0.0.1:55935/Module3.html -->
+
 
 * How to use classes and IDs to independently target HTML elements of the same type.
 *  How to apply different style to the same element based on the way the user interacts with that element using pseudo-classes.
@@ -135,7 +119,13 @@ Sample CSS document:
     }
  ```
  
-##### [Module-4](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/2fb0b177f7594d2aa29f0ffa9e3b8b0a/cc87ccb0d8f243f98b2f17c1955c0298/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%408347080b2233486082d5154ee2e14ad6)
+#### [Module-4](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/2fb0b177f7594d2aa29f0ffa9e3b8b0a/cc87ccb0d8f243f98b2f17c1955c0298/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%408347080b2233486082d5154ee2e14ad6)
+
+##### Layout and positioning
+
+![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/07fb2ab374e9dcd5a05257cf25507fde/asset-v1:W3Cx+CSS.0x+3T2017+type@asset+block/4-6_Kasey_Resume.PNG)
+<!--
+http://127.0.0.1:50749/Module4.html -->
 
 * How to use padding and margin to position elements relative to each other and the window.
 *  How to use alignment to control how your content sits within its HTML element.
@@ -146,7 +136,9 @@ Sample CSS document:
   The Box Model is how Web browsers see individual HTML elements. Each element is comprised of 4 areas: the element, the padding, the border and the margin.
 
 
-##### [Module-5](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/12e8f1585d88470e95f54cf0ff6a1a00/6c9058a29dc5493fbb43332c6bc3b550/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%4089308c49a101442a8adcf2485a5ecffa)
+#### [Module-5](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2017/courseware/12e8f1585d88470e95f54cf0ff6a1a00/6c9058a29dc5493fbb43332c6bc3b550/1?activate_block_id=block-v1%3AW3Cx%2BCSS.0x%2B3T2017%2Btype%40vertical%2Bblock%4089308c49a101442a8adcf2485a5ecffa)
+
+##### Designing your Web site for your audience
 
 
 *  Learn how to apply basic design principals based on the context of your HTML elements.
@@ -249,7 +241,7 @@ Benefits are numerous as it works best:
 
    For example, avoid:
   ```
-  
+
 	      * z-index:  
           9999999999999999999999999999999999999;
 	      * position: absolute; left: -10000000000px
